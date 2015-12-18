@@ -3,7 +3,7 @@
 
 var api = {
 
-url: 'https://calm-spire-9782.herokuapp.com/',
+url: 'https://calm-spire-9782.herokuapp.com',
 // url: 'http://localhost:3000',
 
 
